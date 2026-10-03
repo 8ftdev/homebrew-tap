@@ -4,25 +4,25 @@ class Kuit < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/8ftdev/kuit/releases/download/v0.1.0-rc.2/kuit_0.1.0-rc.2_darwin_arm64.tar.gz"
-      sha256 "bec9d36f978b931e76ded8bf2c625a2f67895334ba26d9c28bfd13b2c5d04198"
+      url "https://github.com/8ftdev/kuit/releases/download/v0.1.0-rc.3/kuit_0.1.0-rc.3_darwin_arm64.tar.gz"
+      sha256 "1f5fbd5c673e65499b3d011507a1e1804e71bfeac250bab768f626bc19aa17e0"
     end
 
     on_intel do
-      url "https://github.com/8ftdev/kuit/releases/download/v0.1.0-rc.2/kuit_0.1.0-rc.2_darwin_amd64.tar.gz"
-      sha256 "399ad51d231612dfd1cec686f15fb48f5ff7e753724d341c0f694d7f1f79db6e"
+      url "https://github.com/8ftdev/kuit/releases/download/v0.1.0-rc.3/kuit_0.1.0-rc.3_darwin_amd64.tar.gz"
+      sha256 "aaee8158e290a4503d4015ee32002bccbdc964b524caf7b8a40988a4844ea285"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/8ftdev/kuit/releases/download/v0.1.0-rc.2/kuit_0.1.0-rc.2_linux_arm64.tar.gz"
-      sha256 "f0ef43b46d711b3a5cf864de3a2d09a6803922b42662b150fb9615017934b2c3"
+      url "https://github.com/8ftdev/kuit/releases/download/v0.1.0-rc.3/kuit_0.1.0-rc.3_linux_arm64.tar.gz"
+      sha256 "148cf7399961e7a0f9885bef15305d3cff60eeac7a2a6dce9696909dc0069114"
     end
 
     on_intel do
-      url "https://github.com/8ftdev/kuit/releases/download/v0.1.0-rc.2/kuit_0.1.0-rc.2_linux_amd64.tar.gz"
-      sha256 "2d245f97a03f2daf4a2c8f87af27432a3406524ad7191c56835cfd6239d7d440"
+      url "https://github.com/8ftdev/kuit/releases/download/v0.1.0-rc.3/kuit_0.1.0-rc.3_linux_amd64.tar.gz"
+      sha256 "0314b08d7e1406b5d4c55d415047b1f3f5c65bb0bdbccdbab1558c89a5871b9f"
     end
   end
 
